@@ -1,0 +1,46 @@
+h1 {
+    font-weight: 700;
+}
+h1 {
+    font-size: 3.2857rem;
+    line-height: 4rem;
+}
+
+.tagline{
+    font-size: 1.25rem;
+    line-height: 2rem;
+    margin-top: 15px;
+    color:#a4acc4;
+    max-width: 800px;
+    text-align: center;
+}
+
+.icon-wrapper{
+    border-radius: 50%;
+    border: 1px solid #a4acc4;
+    width:60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    cursor: pointer;
+    transition: all 250ms;
+}
+.icon-wrapper:hover{
+    background: #a4acc41c;
+    border: 1px solid #037fff;
+    color: #037fff;
+}
+
+
+#tsparticles{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+    z-index: 0;
+}
+

@@ -1,0 +1,19 @@
+.heading-bar {
+    height:5px;
+    position: relative;
+    width: 100px;
+    margin-top: 18px;
+    border-radius: 10px;
+    background: #0381ff2d;
+  }
+  
+  .heading-bar::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    border-radius: 10px;
+    bottom: 0;
+    top: 0;
+    width: 30%;
+    background: #037fff;
+  }
