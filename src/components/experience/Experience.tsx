@@ -6,12 +6,12 @@ const Experience = () => {
     return <div style={{ marginTop: 90 }} className="container">
         <div className="px-4">
             <div className="position-relative mt-5">
-                <h1 style={{ textTransform: "uppercase", fontSize: "6rem", zIndex: -1, position: "absolute", top: 58, color: "#161922", width: 510 }} >Experience</h1>
+                <h1 style={{ textTransform: "uppercase", fontSize: "6rem", zIndex: -1, position: "absolute", top: 58, color: "#0d334b", width: 510 }} >Experience</h1>
                 <h1 style={{ textTransform: "uppercase", fontSize: "2.5rem" }} className={"text-white "}>Experience</h1>
             </div>
             <HeadingBar />
             <div className="position-relative mb-5"  >
-                <div className="position-absolute" style={{ left: 6, width: 2, height: "100%", background: "#a4acc4", top: 0, zIndex: -1 }}></div>
+                <div className="position-absolute" style={{ left: 6, width: 2, height: "100%", background: "#7ba6c1", top: 0, zIndex: -1 }}></div>
                 <div style={{ zIndex: 1, marginTop: 100 }} className="py-3">
                     <ExperienceItem duration={'Jan 2022 - Present'} jobTitle={'BTS Officer'} companyName={'Enterprise Group'} description={'My responsibilities include application development, application support, DevSecOps, engaging and assisting third-party vendors, et cetera. Some of the languages and tools I\'ve used at this role are PHP, Laminas, Laravel, Reactjs, Docker, Git, MySql, MSSQL Server '} />
                     <ExperienceItem duration={'Jan 2020 - Present'} jobTitle={'Chief Executive Officer'} companyName={'Petamindz'} description={'My responsibilities include engaging prospective clients, requirements gathering, application development, application support, et cetera. Some of the languages and tools I\'ve used at this role are Reactjs, Angular 2+, PHP, Nodejs, MongoDB, Flutter, Native Android (Kotlin), Docker, Git.'} />

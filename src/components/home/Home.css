@@ -10,14 +10,14 @@ h1 {
     font-size: 1.25rem;
     line-height: 2rem;
     margin-top: 15px;
-    color:#a4acc4;
+    color:#7ba6c1;
     max-width: 800px;
     text-align: center;
 }
 
 .icon-wrapper{
     border-radius: 50%;
-    border: 1px solid #a4acc4;
+    border: 1px solid #7ba6c1;
     width:60px;
     display: flex;
     justify-content: center;
@@ -27,9 +27,9 @@ h1 {
     transition: all 250ms;
 }
 .icon-wrapper:hover{
-    background: #a4acc41c;
-    border: 1px solid #037fff;
-    color: #037fff;
+    background: #7ba6c11c;
+    border: 1px solid #14b8ee;
+    color: #14b8ee;
 }
 
 

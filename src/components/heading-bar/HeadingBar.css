@@ -4,7 +4,7 @@
     width: 100px;
     margin-top: 18px;
     border-radius: 10px;
-    background: #0381ff2d;
+    background: #25b8ee33;
   }
   
   .heading-bar::after {
@@ -15,5 +15,5 @@
     bottom: 0;
     top: 0;
     width: 30%;
-    background: #037fff;
+    background: #14b8ee;
   }

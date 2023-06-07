@@ -59,8 +59,8 @@ function App() {
           }
 
         }} className="d-flex justify-content-center align-items-center"
-          style={{ position: "absolute", left: 280, top: 30, color: "white", width: 60, height: 60, fontSize: 25, borderRight: "1px solid #2E344E", borderTop: "1px solid #2E344E", borderBottom: "1px solid #2E344E", cursor: "pointer", transition: "all 250ms", background: "#191D2A", zIndex: 1 }}>
-          {!sideNavOpened ? <i className="fa  fa-bars"></i> : <i className="fa  fa-arrow-left"></i>}</div>}
+          style={{ position: "absolute", left: 280, top: 30, color: "white", width: 60, height: 60, fontSize: 25, borderRight: "1px solid #0b3d5c", borderTop: "1px solid #0b3d5c", borderBottom: "1px solid #0b3d5c", cursor: "pointer", transition: "all 250ms", background: "#0a1c2b", zIndex: 1 }}>
+          {!sideNavOpened ? <i className="fa  fa-bars"></i> : <i className="fa  fa-close"></i>}</div>}
       </div>}
 
       {!isMobile && <div style={{ minWidth: 280, position: "relative", transition: "all 250ms", zIndex: 1 }} className="sidebar-wrapper">

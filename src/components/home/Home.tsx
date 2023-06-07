@@ -9,7 +9,7 @@ const Home = () => {
 
         background: {
             color: {
-                value: "#10121A",
+                value: "#052C43",
             },
             position: "relative"
         },
@@ -42,10 +42,10 @@ const Home = () => {
         },
         particles: {
             color: {
-                value: "#a4acc41c",
+                value: "#7ba6c11c",
             },
             links: {
-                color: "#a4acc41c",
+                color: "#7ba6c11c",
                 distance: 150,
                 enable: true,
                 opacity: 0.5,
@@ -108,7 +108,7 @@ const Home = () => {
             left: 0,
             zIndex: 1
         }} className="d-flex justify-content-center align-items-center flex-column h-100 w-100 px-3">
-            <h1 className="text-white text-center">Hi, I am <span style={{ color: "#037fff" }}>Joseph Cobbinah</span></h1>
+            <h1 className="text-white text-center">Hi, I am <span style={{ color: "#14b8ee" }}>Joseph Cobbinah</span></h1>
             <div className="tagline mb-4">I'm a skilled Software Engineer with a track record of delivering high-quality and scalable software solutions while working collaboratively with cross-functional teams accros the globe. If you're looking for a dedicated and experienced Software Engineer for your next Project, let's connect</div>
             <div className="d-flex flex-wrap justify-content-center text-white">
                 <div className="p-3 icon-wrapper me-3 mt-1">
