@@ -111,18 +111,18 @@ const Home = () => {
             <h1 className="text-white text-center">Hi, I am <span style={{ color: "#14b8ee" }}>Joseph Cobbinah</span></h1>
             <div className="tagline mb-4">I'm a skilled Software Engineer with a track record of delivering high-quality and scalable software solutions while working collaboratively with cross-functional teams accros the globe. If you're looking for a dedicated and experienced Software Engineer for your next Project, let's connect</div>
             <div className="d-flex flex-wrap justify-content-center text-white">
-                <div className="p-3 icon-wrapper me-3 mt-1">
+                <a href="https://web.facebook.com/cobbinah" target="_blank" className="p-3 icon-wrapper me-3 mt-1">
                     <i style={{ fontSize: 25 }} className="fa fa-facebook" aria-hidden="true"></i>
-                </div>
-                <div className="p-3 icon-wrapper me-3 mt-1">
+                </a>
+                <a href="https://www.instagram.com/josephcobbinah.jc/" target="_blank" className="p-3 icon-wrapper me-3 mt-1">
                     <i style={{ fontSize: 25 }} className="fa fa-instagram" aria-hidden="true"></i>
-                </div>
-                <div className="p-3 icon-wrapper me-3 mt-1">
+                </a>
+                <a href="https://www.linkedin.com/in/joseph-cobbinah/" target="_blank" className="p-3 icon-wrapper me-3 mt-1">
                     <i style={{ fontSize: 25 }} className="fa fa-linkedin" aria-hidden="true"></i>
-                </div>
-                <div className="p-3 icon-wrapper me-3 mt-1">
+                </a>
+                <a href="https://github.com/joecobb" target="_blank" className="p-3 icon-wrapper me-3 mt-1">
                     <i style={{ fontSize: 25 }} className="fa fa-github" aria-hidden="true"></i>
-                </div>
+                </a>
 
             </div>
         </div>

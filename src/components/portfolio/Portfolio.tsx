@@ -7,7 +7,7 @@ import AMIImage from '../../assets/images/ami.png'
 import NewHeightsSchoolImage from '../../assets/images/nhs.png'
 
 const Portfolio = () => {
-    return <div style={{ marginTop: 90 }} className="container">
+    return <div style={{ marginTop: 90 }} className="container mb-5">
         <div className="px-4">
             <div className="position-relative mt-5">
                 <h1 style={{ textTransform: "uppercase", fontSize: "6rem", zIndex: -1, position: "absolute", top: 58, color: "#0d334b", width: 510 }} >Portfolio</h1>

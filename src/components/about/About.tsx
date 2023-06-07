@@ -36,7 +36,7 @@ const About = () => {
             </div>
             <HeadingBar />
 
-            <div className="row mt-5">
+            <div className="row my-5">
                 <div className="col-lg-4 mt-4">
                     <div style={{ background: "#0a1c2b", border: "1px solid #335469", borderTop: "5px solid #335469" }} className="p-4 h-100">
                         <i style={{ color: "#14b8ee" }} className='fa fa-paint-brush fa-2x'></i>
