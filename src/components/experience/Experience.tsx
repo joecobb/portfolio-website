@@ -11,7 +11,7 @@ const Experience = () => {
             </div>
             <HeadingBar />
             <div className="position-relative mb-5"  >
-                <div className="position-absolute" style={{ left: 6, width: 2, height: "100%", background: "#7ba6c1", top: 0, zIndex: -1 }}></div>
+                <div className="position-absolute" style={{ left: 6, width: 2, height: "100%", background: "#9fc1d7", top: 0, zIndex: -1 }}></div>
                 <div style={{ zIndex: 1, marginTop: 100 }} className="py-3">
                     <ExperienceItem duration={'Jan 2022 - Present'} jobTitle={'BTS Officer'} companyName={'Enterprise Group'} description={'My responsibilities include application development, application support, DevSecOps, engaging and assisting third-party vendors, et cetera. Some of the languages and tools I\'ve used at this role are PHP, Laminas, Laravel, Reactjs, Docker, Git, MySql, MSSQL Server '} />
                     <ExperienceItem duration={'Jan 2020 - Present'} jobTitle={'Chief Executive Officer'} companyName={'Petamindz'} description={'My responsibilities include engaging prospective clients, requirements gathering, application development, application support, et cetera. Some of the languages and tools I\'ve used at this role are Reactjs, Angular 2+, PHP, Nodejs, MongoDB, Flutter, Native Android (Kotlin), Docker, Git.'} />

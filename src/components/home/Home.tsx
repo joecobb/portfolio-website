@@ -42,10 +42,10 @@ const Home = () => {
         },
         particles: {
             color: {
-                value: "#7ba6c11c",
+                value: "#9fc1d71c",
             },
             links: {
-                color: "#7ba6c11c",
+                color: "#9fc1d71c",
                 distance: 150,
                 enable: true,
                 opacity: 0.5,
@@ -90,7 +90,7 @@ const Home = () => {
         await loadFull(engine);
     }, []);
 
-    const particlesLoaded = useCallback(async (container: any) => {
+    const particlesLoaded = useCallback(async () => {
 
     }, []);
     return <div className="position-relative h-100 w-100">
