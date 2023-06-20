@@ -2,7 +2,6 @@ import HeadingBar from '../heading-bar/HeadingBar'
 import LaropaKiokiImage from '../../assets/images/laropakioki.png'
 import AnnuityPrimeImage from '../../assets/images/annuityprime.png'
 import OneStopMalImage from '../../assets/images/onestopmall.png'
-import ILATwoImage from '../../assets/images/ila2.png'
 import AMIImage from '../../assets/images/ami.png'
 import NewHeightsSchoolImage from '../../assets/images/nhs.png'
 
