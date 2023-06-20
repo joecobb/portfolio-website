@@ -18,14 +18,6 @@ const Portfolio = () => {
             <div style={{ marginTop: 100 }}>
                 <div className="row g-4">
                     <div className="col-lg-6 col-md-12">
-                        <img className="w-100 " style={{ objectFit: 'cover', objectPosition: 'left' }} src={ILATwoImage} alt="ila image" />
-                        {/* <h4 className="text-white mt-2">A website for generating Annuity quotes with Enterprise Life</h4> */}
-                        <h5 className="text-white mt-2">Island Life Assurance - Mauritius</h5>
-                        <div style={{ color: "#9fc1d7", fontSize: 18 }} >A total insurance management platform for agents/partners of Island Life Assurance, Mauritius. Partners can use portal to generate quotations and forward to clients, activate particular quotation, perform underwriting, perform ML/AI enabled kyc checks using Shufti Pro api, Payment integration for initial payment and recurring payments, generate pdf documents at various stages of the policy purchasing process and lots more! It's a React app </div>
-                    </div>
-
-
-                    <div className="col-lg-6 col-md-12">
                         <img className="w-100 " style={{ objectFit: 'cover', objectPosition: 'top' }} src={AnnuityPrimeImage} alt="laropakioki" />
                         {/* <h4 className="text-white mt-2">A website for generating Annuity quotes with Enterprise Life</h4> */}
                         <h5 className="text-white mt-2">Annuity Calculator For Enterprise Life</h5>
