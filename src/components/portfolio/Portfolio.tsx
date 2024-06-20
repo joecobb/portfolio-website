@@ -4,6 +4,7 @@ import AnnuityPrimeImage from '../../assets/images/annuityprime.png'
 import OneStopMalImage from '../../assets/images/onestopmall.png'
 import AMIImage from '../../assets/images/ami.png'
 import NewHeightsSchoolImage from '../../assets/images/nhs.png'
+import EligibleChecksImage from '../../assets/images/eligiblechecks.png'
 
 const Portfolio = () => {
     return <div style={{ marginTop: 90 }} className="container mb-5">
