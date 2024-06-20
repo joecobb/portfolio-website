@@ -43,6 +43,11 @@ const Portfolio = () => {
                         <h5 className="text-white mt-3">New Heights School Website</h5>
                         <div style={{ color: "#9fc1d7", fontSize: 18 }} >I think this is one of the first projects I built. It is website for New Heights School which showcases their The facilities they have as well as some beautiful pictures. Built with vanilla HTML, Javascript and CSS with Google Maps integration</div>
                     </div>
+                    <div className="col-lg-6 col-md-12">
+                        <img className="w-100 " style={{ objectFit: 'cover', objectPosition: 'top' }} src={EligibleChecksImage} alt="Eligible Checks" />
+                        <h5 className="text-white mt-3">Eligible Background Checks</h5>
+                        <div style={{ color: "#9fc1d7", fontSize: 18 }} >An application for requesting for background checks to be done on prospective employees. Possible Checks Include Drivers' License Check, Social Media Check, Criminal Checks, Educational Background Check, et cetera</div>
+                    </div>
 
                 </div>
             </div>

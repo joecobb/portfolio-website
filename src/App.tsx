@@ -12,6 +12,7 @@ import Portfolio from './components/portfolio/Portfolio'
 
 
 
+
 function App() {
 
   const location = useLocation();
@@ -28,6 +29,7 @@ function App() {
     if (isMobile) {
       setSideNavOpened(false);
     }
+
   }, [])
 
   useEffect(() => {

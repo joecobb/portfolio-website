@@ -23,7 +23,6 @@ const About = () => {
                         <div className="d-flex mt-2"><div style={{ width: 120 }}>(Languages)</div><div>=&gt; English</div></div>
                         <div className="d-flex mt-2"><div style={{ width: 120 }}>(Address)</div><div>=&gt; Sakumono, Greater Accra, Ghana</div></div>
                         <div className="d-flex mt-2"><div style={{ width: 120 }}>(Hobby)</div><div>=&gt; Playing guitar 🎸</div></div>
-
                     </div>
 
                 </div>
